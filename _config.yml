@@ -2,7 +2,7 @@ title: hshshshshs
 subtitle: ''
 description: ''
 keywords: null
-author: John Doe
+author: HS
 language: en
 timezone: ''
 url: http://Griotold.github.io
@@ -16,6 +16,7 @@ public_dir: public
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
+about_dir: about
 code_dir: downloads/code
 i18n_dir: ':lang'
 skip_render: null
